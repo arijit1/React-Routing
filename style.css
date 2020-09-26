@@ -1,0 +1,18 @@
+.active{
+    color: green;
+    border: 1px solid lightgreen;
+    padding: 5px;
+}
+.title{
+    font-size: 30px;
+    color: indigo;
+    display: flex;
+}
+.rating{
+    color: black;
+    
+}
+.Menu td{
+    font-weight: bold;
+}
+nav {padding: 10px;}
